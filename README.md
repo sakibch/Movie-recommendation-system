@@ -1,9 +1,7 @@
 # Movie_recommendation_system
 
-**RECOMMENDATION SYSTEM - CONTENT BASED FILTERING**
-Notebook with figures can be displayed here:
-https://nbviewer.jupyter.org/github/sakibch/Movie_recommendation_system/blob/main/movie_rec_system_content_based.ipynb
+# Content Based vs Collaborative Filtering Recommendation System
+* Recommendation systems are a collection of algorithms used to recommend items to users based on information taken from the user. These systems have become ubiquitous, and can be commonly seen in online stores, movies databases and job finders. 
+* In this project, we will explore Content-based and Collaborative filtering recommendation systems and implement a simple version of each using Python and the Pandas library.
 
-**RECOMMENDATION SYSTEM - COLLABORATIVE FILTERING**
-Notebook with figures can be displayed here:
-https://nbviewer.jupyter.org/github/sakibch/Movie_recommendation_system/blob/main/movie_recsys_collaborative_filtering.ipynb
+
